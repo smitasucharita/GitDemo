@@ -32,6 +32,14 @@ public class SampleTes2 extends BaseTTest {
 		@Test(enabled=false)
 		public void Skiptest() {
 			 System.out.println("Sample 2 executed");
+			 System.out.println("Sample 2 executed");
+			 
+			 System.out.println("Sample 2 executed");
+			 
+			 
+			 System.out.println("Sample 2 executed");
+			 
+			 System.out.println("Sample 2 executed");
 			
 		}
 	
