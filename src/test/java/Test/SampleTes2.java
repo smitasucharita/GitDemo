@@ -29,11 +29,12 @@ public class SampleTes2 extends BaseTTest {
 		}
 		
 
-		@Test(enabled=true)
+		@Test(enabled=false)
 		public void Skiptest() {
 			 System.out.println("Sample 2 executed");
 			
 		}
+	
 
 	@AfterMethod
 	public void tearDown() {
